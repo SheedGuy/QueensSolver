@@ -1,0 +1,5 @@
+4
+ABBC
+AABC
+DDBB
+DDDB
